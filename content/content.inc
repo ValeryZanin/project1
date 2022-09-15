@@ -1,4 +1,6 @@
 <?php
+/* implement-new-logic */
+$_row = $state->GetVars('base_config_row');
 
 $base_config_row = $state->GetVars('base_config_row'); 
 
