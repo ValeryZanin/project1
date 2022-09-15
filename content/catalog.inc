@@ -17,6 +17,8 @@ $vars['name'] = implode($path_a," &rsaquo; ");
 
 
 //debug($vars['name']); 
+/****** new ****/
+$sql="SELECT * FROM `catalog_ya`";
 
 
 
